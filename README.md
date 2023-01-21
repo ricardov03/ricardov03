@@ -1,6 +1,6 @@
 ### Hello and welcome! 👋
 
-I'm Ricardo Vargas, a dedicated and highly skilled software engineer with over eight years of experience in the tech industry. Proficient in various technologies, including PHP, JavaScript, and TypeScript, and most of their provident libraries and frameworks like Node.js, Vue.js, Nuxt, Electron, and more.
+I'm Ricardo Vargas, a dedicated Software Engineer with over eight years of experience in the tech industry. Proficient in various technologies, including PHP, JavaScript, and TypeScript, and most of their provident libraries and frameworks like Node.js, Vue.js, Nuxt, Electron, and more.
 
 I'm experienced in building professional and interactive web solutions, with a focus on attention to detail, the use of standards, and good practices. Passionate about continuous learning, I always want to learn and share the latest innovations and best practices.
 
