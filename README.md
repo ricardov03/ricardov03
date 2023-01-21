@@ -7,7 +7,7 @@ I'm experienced in building professional and interactive web solutions, with a f
 I'm a Linux enthusiast in my free time. Also, I'm starting to get more active by sharing knowledge and contributing to Open-Source communities such as Laravel and Vue.js.
 
 You can find me on:
-- [My Blog](https://myblog.ricardovargas.me/)
+- <a href="https://myblog.ricardovargas.me/" target="_blank">My Blog</a>
 - [Twitter](https://twitter.com/ricardovdev)
 - [LinkedIn](https://www.linkedin.com/in/ricardov03/)
 
@@ -17,7 +17,7 @@ You can find me on:
 ### Lasted Packages
 - [dgii-rnc-validator](https://github.com/seisigmasrl/dgii-rnc-validator)
 
-[![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor%20aschmelyun&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/ricardov03)
+[![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor%20ricardov03&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/ricardov03)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=ricardov03&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Ricardo Vargas's GitHub Stats" />
